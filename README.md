@@ -1,6 +1,4 @@
-Got it! Here’s a **creative, professional README** for your **YouTube Slide Extractor / Slide-Snip project**, styled similarly to your Storm Signal example:
 
----
 
 # 🎬 Slide-Snip – YouTube to PDF Slide Extractor
 
@@ -122,8 +120,3 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 
 **Contact:** [sushantmanitripathiji@gmail.com](mailto:sushantmanitripathiji@gmail.com)
 
----
-
-If you want, I can also **add badges for “AI-powered”, “Fast Processing”, and “Python”** to make it **extra eye-catching on GitHub** — like a polished portfolio project.
-
-Do you want me to do that?
